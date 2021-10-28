@@ -1,2 +1,2 @@
 # Automation-using-python
-Automatic processing of xl files using python and its packages. 
+Automatic processing of xlsx files using python and its packages. 
